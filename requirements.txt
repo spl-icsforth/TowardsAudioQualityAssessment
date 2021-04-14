@@ -1,0 +1,8 @@
+argparse
+audioread
+soundfile
+pandas
+librosa
+tensorflow >= 2.0
+matplotlib
+resampy
