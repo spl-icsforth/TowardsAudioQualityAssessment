@@ -41,7 +41,9 @@ A `.txt` file will be exported which contains each `.wav` file name along with t
 
 
 ## License
-(To be filled)
+MIT 
+
+Copyright (c) 2021 **Nikonas Simou, Yannis Mastorakis, Nikolaos Stefanakis**
 
 --------
 ### How to reference
